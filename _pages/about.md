@@ -7,7 +7,7 @@ subtitle: <a href='#'>Affiliations</a>. University of Illinois Chicago (UIC), Ch
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p></p>
     <p></p>
@@ -22,6 +22,10 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-I am a PhD student in Biomedical Engineering with a passion for computer vision, machine learning, and data science.
-I have hands-on experience with deep learning and computer vision research, coupled with strong foundations in programming and analytical tools. In particular, I am interested in applying AI to healthcare and technology challenges.
-As someone who is passionate about continuous learning and collaboration, I am actively seeking opportunities to contribute and grow within the field of data science and machine learning.
+<p>I am a PhD student in Biomedical Engineering with a passion for computer vision, machine learning, and data science.</p>
+
+<p>I have hands-on experience with deep learning and computer vision research, coupled with strong foundations in programming and analytical tools.</p>
+
+<p>In particular, I am interested in applying AI to healthcare and technology challenges.</p>
+
+<p>As someone who is passionate about continuous learning and collaboration, I am actively seeking opportunities to contribute and grow within the field of data science and machine learning.</p>
