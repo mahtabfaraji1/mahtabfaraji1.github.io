@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined Pfizer as a Research and Development Intern.
+Joined **Pfizer** as a Research and Development Intern.
