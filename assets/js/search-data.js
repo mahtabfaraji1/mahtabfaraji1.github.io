@@ -408,14 +408,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-joined-uic-as-a-phd-student-in-biomedical-engineering-sparkles",
-          title: 'Joined UIC as a PhD student in Biomedical Engineering. :sparkles:',
+            },},{id: "news-joined-uic-as-a-phd-student-in-biomedical-engineering",
+          title: 'Joined UIC as a PhD student in Biomedical Engineering.',
           description: "",
           section: "News",},{id: "news-attended-arvo-2024-to-present-assessing-vitreoretinal-surgical-training-experience-by-leveraging-instrument-maneuvers-and-visual-attention-with-deep-learning-neural-networks",
           title: 'Attended ARVO 2024 to present “Assessing vitreoretinal surgical training experience by leveraging instrument...',
           description: "",
-          section: "News",},{id: "news-joined-pfizer-as-a-research-and-development-intern-sparkles",
-          title: 'Joined Pfizer as a Research and Development Intern. :sparkles:',
+          section: "News",},{id: "news-joined-pfizer-as-a-research-and-development-intern",
+          title: 'Joined Pfizer as a Research and Development Intern.',
           description: "",
           section: "News",},{id: "news-attended-arvo-2024-to-present-analysis-of-out-of-distribution-factors-to-detect-iris-and-pupil-using-cataract-surgical-images",
           title: 'Attended ARVO 2024 to present “Analysis of Out-of-Distribution Factors to Detect Iris and...',
