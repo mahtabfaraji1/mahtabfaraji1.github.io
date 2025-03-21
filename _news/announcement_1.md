@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-01-01
+date: 2024-05-10
 inline: true
 related_posts: false
 ---
 
-Joined UIC as a PhD student in Biomedical Engineering. :sparkles:
+Joined Pfizer as a Research and Development Intern. :sparkles:
