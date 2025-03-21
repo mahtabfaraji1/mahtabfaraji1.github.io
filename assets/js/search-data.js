@@ -462,11 +462,11 @@ ninja.data = [{
           window.open("mailto:%6D%66%61%72%61%6A%34@%75%69%63.%65%64%75", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://www.linkedin.com/in/mahtab-faraji", "_blank");
         },
       },{
         id: 'social-scholar',
