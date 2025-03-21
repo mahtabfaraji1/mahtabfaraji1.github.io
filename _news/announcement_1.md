@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined UIC as a PhD student in Biomedical Engineering.
+Joined UIC as a PhD student in Biomedical Engineering. :sparkles:
