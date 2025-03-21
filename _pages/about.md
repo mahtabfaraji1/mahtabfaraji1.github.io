@@ -27,6 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student in Biomedical Engineering with a passion for computer vision, machine learning, and data science. 
-I have hands-on experience with deep learning and computer vision research, coupled with strong foundations in programming and analytical tools. In particular, I am interested in applying AI to healthcare and technology challenges. 
+I am a PhD student in Biomedical Engineering with a passion for computer vision, machine learning, and data science.
+I have hands-on experience with deep learning and computer vision research, coupled with strong foundations in programming and analytical tools. In particular, I am interested in applying AI to healthcare and technology challenges.
 As someone who is passionate about continuous learning and collaboration, I am actively seeking opportunities to contribute and grow within the field of data science and machine learning.
