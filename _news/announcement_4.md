@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-01-01
+date: 2024-05-04
 inline: true
 related_posts: false
 ---
 
-Joined UIC as a PhD student in Biomedical Engineering. :sparkles:
+Attended ARVO 2024 to present [**"Analysis of Out-of-Distribution Factors to Detect Iris and Pupil Using Cataract Surgical Images"**](https://siim.org/wp-content/uploads/2024/08/Analysis-of-Out-of-Distribution-Factors_Faraji.pdf).
