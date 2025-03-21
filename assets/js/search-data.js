@@ -30,28 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
-          },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
+        },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
       
         title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
@@ -406,8 +385,8 @@ ninja.data = [{
           section: "News",},{id: "news-joined-pfizer-as-a-research-and-development-intern",
           title: 'Joined Pfizer as a Research and Development Intern.',
           description: "",
-          section: "News",},{id: "news-attended-arvo-2024-to-present-analysis-of-out-of-distribution-factors-to-detect-iris-and-pupil-using-cataract-surgical-images",
-          title: 'Attended ARVO 2024 to present “Analysis of Out-of-Distribution Factors to Detect Iris and...',
+          section: "News",},{id: "news-attended-cmimi-2024-to-present-analysis-of-out-of-distribution-factors-to-detect-iris-and-pupil-using-cataract-surgical-images",
+          title: 'Attended CMIMI 2024 to present “Analysis of Out-of-Distribution Factors to Detect Iris and...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -460,6 +439,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("mailto:%6D%66%61%72%61%6A%34@%75%69%63.%65%64%75", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/mahtabfaraji1", "_blank");
         },
       },{
         id: 'social-linkedin',
