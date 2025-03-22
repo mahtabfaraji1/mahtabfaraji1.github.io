@@ -24,12 +24,12 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Pfizer",
+      "position": "Research and Development- Intern ",
+      "url": "",
+      "startDate": "2024-05-10",
+      "endDate": "2024-08-10",
+      "summary": "* Optimized large-scale histopathology image processing workflows to improve efficiency and accuracy using advanced image analysis\ntechniques.\n* Applied Generative Adversarial Networks (GANs) for color normalization of histopathology images to enhance consistency and\nreliability in downstream analysis.\n* Used AI-based tools, such as QuPath, to detect abnormalities in histopathology images.\n* Contributed to a research paper related to histopathology image color normalization",
       "highlights": ["Relativity"]
     }
   ],
