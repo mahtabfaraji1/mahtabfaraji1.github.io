@@ -152,40 +152,25 @@
       "name": "Containerization",
       "level": "",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Docker"
-      ]
+      "keywords": ["Docker"]
     },
-      {
+    {
       "name": "Deep Learning Frameworks",
       "level": "",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        " Pytorch",
-        "Tensorflow"
-      ]
+      "keywords": [" Pytorch", "Tensorflow"]
     },
     {
       "name": "Tools",
       "level": "",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        " Git",
-        "Google Colab",
-        "Conda",
-        "Spyder",
-        "Pycharm",
-        "Bash"
-      ]
+      "keywords": [" Git", "Google Colab", "Conda", "Spyder", "Pycharm", "Bash"]
     },
     {
       "name": "Operating system",
       "level": "",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Linux",
-        "Windows"
-      ]
+      "keywords": ["Linux", "Windows"]
     }
   ],
   "languages": [
@@ -198,9 +183,8 @@
       "language": "Persian",
       "fluency": "Native or bilingual proficiency",
       "icon": ""
-    }
-    ,
-     {
+    },
+    {
       "language": "Azerbaijani",
       "fluency": "Native or bilingual proficiency",
       "icon": ""
