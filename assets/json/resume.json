@@ -25,12 +25,17 @@
   "work": [
     {
       "name": "Pfizer",
-      "position": "Research and Development- Intern ",
+      "position": "Research and Development Intern",
       "url": "",
       "startDate": "2024-05-10",
       "endDate": "2024-08-10",
-      "summary": "* Optimized large-scale histopathology image processing workflows to improve efficiency and accuracy using advanced image analysis\ntechniques.\n* Applied Generative Adversarial Networks (GANs) for color normalization of histopathology images to enhance consistency and\nreliability in downstream analysis.\n* Used AI-based tools, such as QuPath, to detect abnormalities in histopathology images.\n* Contributed to a research paper related to histopathology image color normalization",
-      "highlights": ["Relativity"]
+      "summary": "Focused on AI applications in histopathology image processing and color normalization.",
+      "highlights": [
+        "Optimized large-scale histopathology image processing workflows to improve efficiency and accuracy using advanced image analysis techniques.",
+        "Applied Generative Adversarial Networks (GANs) for color normalization of histopathology images to enhance consistency and reliability in downstream analysis.",
+        "Used AI-based tools, such as QuPath, to detect abnormalities in histopathology images.",
+        "Contributed to a research paper related to histopathology image color normalization."
+      ]
     }
   ],
   "volunteer": [
