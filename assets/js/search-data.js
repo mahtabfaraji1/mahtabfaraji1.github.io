@@ -388,8 +388,8 @@ ninja.data = [{
           section: "News",},{id: "news-attended-cmimi-2024-to-present-analysis-of-out-of-distribution-factors-to-detect-iris-and-pupil-using-cataract-surgical-images",
           title: 'Attended CMIMI 2024 to present “Analysis of Out-of-Distribution Factors to Detect Iris and...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
+          section: "News",},{id: "projects-iris-and-pupil-detection-in-cataract-surgical-data",
+          title: 'Iris and Pupil Detection in Cataract Surgical Data',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
