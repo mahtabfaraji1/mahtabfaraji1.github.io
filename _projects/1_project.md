@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Iris and Pupil Detection in Cataract Surgical Data
-description: with background image
+description: 
 img: assets/img/catarct_surgical_images.png
 importance: 1
 category: work
@@ -17,7 +17,7 @@ To give your project a background in the portfolio page, just add the img tag to
     ---
     layout: page
     title: project
-    description: a project with a background image
+    description: 
     img: /assets/img/12.jpg
     ---
 
