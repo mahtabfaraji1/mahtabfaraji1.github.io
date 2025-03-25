@@ -2,7 +2,7 @@
 layout: page
 title: Iris and Pupil Detection in Cataract Surgical Data
 description: Object detection in cataract surgery images using YOLOv5 to monitor intraoperative deviations.
-img: assets/img/catarct_surgical_images.png
+img: assets/img/sample_image_ctaract101.png
 importance: 1
 category: work
 related_publications: true
@@ -30,7 +30,7 @@ Achieved a Mean Average Precision (mAP) range of **0.75–0.80** across multiple
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/sample_image_ctaract101.png.png" title="Sample images from Catarct 101 dataset" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/sample_image_ctaract101.png" title="Sample images from Catarct 101 dataset" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/GT_sample_public_catarct.png" title="Ground-truth bounding boxes" class="img-fluid rounded z-depth-1" %}
