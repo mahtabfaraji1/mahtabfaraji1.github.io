@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Classification of Surgeon Skill Level
-description: Classifying surgeon skill levels from cataract surgical videos using using V-JEPA and LSTM Models.
+description: Classifying surgeon skill levels from cataract surgical videos using V-JEPA and LSTM Models.
 img: assets/img/cataract_surgeon_skill_classification.png
 importance: 1
 category: work
@@ -22,7 +22,7 @@ V-JEPA (Video Joint Embedding Predictive Architecture), LSTM, ResNet-18
 Achieved an accuracy of **83%** with LSTM and **93%** with V-JEPA models.
 
 **GitHub Repository:**  
-[V-JEPA: Video Joint Embedding Predictive Architecture](#)(https://github.com/monkeygobah/surgical_classification)
+[V-JEPA: Video Joint Embedding Predictive Architecture](https://github.com/monkeygobah/surgical_classification)
 
 ---
 
