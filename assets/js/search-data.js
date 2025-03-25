@@ -395,7 +395,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-classification-of-surgeon-skill-level",
           title: 'Classification of Surgeon Skill Level',
-          description: "Classifying surgeon skill levels from cataract surgical videos using using V-JEPA and LSTM Models.",
+          description: "Classifying surgeon skill levels from cataract surgical videos using V-JEPA and LSTM Models.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-converting-handwritten-mathematical-equations-to-latex-code",
