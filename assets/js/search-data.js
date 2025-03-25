@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -398,9 +398,9 @@ ninja.data = [{
           description: "Classifying surgeon skill levels from cataract surgical videos using using V-JEPA and LSTM Models.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-converting-handwritten-mathematical-equations-to-latex-code",
+          title: 'Converting Handwritten Mathematical Equations to LaTeX Code',
+          description: "Designed a system using image processing and CNNs to convert handwritten equations into LaTeX code.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
