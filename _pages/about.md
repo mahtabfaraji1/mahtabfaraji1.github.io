@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. University of Illinois Chicago (UIC), Chicago, IL, USA
+subtitle: University of Illinois Chicago (UIC), Chicago, IL, USA
 
 profile:
   align: right
