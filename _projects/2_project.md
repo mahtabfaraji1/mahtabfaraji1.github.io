@@ -26,7 +26,7 @@ Achieved an accuracy of **83%** with LSTM and **93%** with V-JEPA models.
 
 ---
 
-### Sample Visuals
+### Model architecture
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -40,5 +40,7 @@ Achieved an accuracy of **83%** with LSTM and **93%** with V-JEPA models.
 
 ---
 
-You can explore the dataset here:  
+You can explore the dataset and here:  
 <a href="http://ftp.itec.aau.at/datasets/ovid/cat-101/" target="_blank">Cataract101 Dataset</a>
+
+See <a href="https://docs.google.com/document/d/1uCtWCGGY4TMgrgtyK3U0uNzPn4oZ1f5jL-aDRxwgxaE/edit?usp=sharing">Project Report</a> for more details of this project
