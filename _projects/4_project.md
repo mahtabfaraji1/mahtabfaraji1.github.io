@@ -35,4 +35,4 @@ Achieved an average frame difference of **1.40 frames** compared to expert-selec
 </div>
 
 <div class="caption">
-௒ Overview of the proposed automatic algorithm for the mid-diastole frame determination. CLC: centre of the largest circle
+Overview of the proposed automatic algorithm for the mid-diastole frame determination. CLC: centre of the largest circle
