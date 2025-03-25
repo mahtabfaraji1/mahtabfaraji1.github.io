@@ -393,9 +393,9 @@ ninja.data = [{
           description: "Object detection in cataract surgery images using YOLOv5 to monitor intraoperative deviations.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-classification-of-surgeon-skill-level",
+          title: 'Classification of Surgeon Skill Level',
+          description: "Classifying surgeon skill levels from cataract surgical videos using using V-JEPA and LSTM Models.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
