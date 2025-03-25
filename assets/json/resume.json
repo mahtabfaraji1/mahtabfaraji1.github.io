@@ -4,7 +4,6 @@
     "label": "Graduate Researcher",
     "image": "",
     "email": "mfaraj4@uic.edu",
-    "phone": "(312) 776-5367",
     "url": "https://mahtabfaraji1.github.io/",
     "summary": "",
     "location": {
@@ -46,7 +45,7 @@
       "summary": "Focused on AI applications in ophthalmology and small labeled data.",
       "highlights": [
         "Participated in a research project aiming at creating a comprehensive review paper that explores the application of DL models in the field of glaucoma detection.",
-        "Analyzing Out-of-Distribution factors in DL models trained on the ophthalmic images.Analyzing Out-of-Distribution factors in DL models trained on the ophthalmic images.",
+        "Analyzing Out-of-Distribution factors in DL models trained on the ophthalmic images.",
         "Implementing semi-supervised segmentation techniques on the ophthalmic images."
       ]
     },
@@ -69,7 +68,7 @@
       "url": "",
       "startDate": "2018-09-01",
       "endDate": "2021-12-01",
-      "summary": "Focused on AI applications in echocardiography images.",
+      "summary": "",
       "highlights": [
         "Served as a Python Programming Lecturer at various institutions. In this role, I taught foundational Python programming skills and introduced undergraduate and graduate students to a range of essential Machine Learning libraries, including NumPy, Pandas, and Matplotlib. "
       ]

@@ -2,7 +2,7 @@
 layout: page
 title: Converting Handwritten Mathematical Equations to LaTeX Code
 description: Designed a system using image processing and CNNs to convert handwritten equations into LaTeX code.
-img: assets/img/hand_written.png.png
+img: assets/img/hand_written.png
 importance: 1
 category: work
 related_publications: false
