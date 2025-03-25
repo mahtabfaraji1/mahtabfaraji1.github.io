@@ -390,7 +390,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-iris-and-pupil-detection-in-cataract-surgical-data",
           title: 'Iris and Pupil Detection in Cataract Surgical Data',
-          description: "",
+          description: "Object detection in cataract surgery images using YOLO to monitor intraoperative deviations.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
