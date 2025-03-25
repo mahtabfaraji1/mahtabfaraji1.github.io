@@ -22,7 +22,7 @@ V-JEPA (Video Joint Embedding Predictive Architecture), LSTM, ResNet-18
 Achieved an accuracy of **83%** with LSTM and **93%** with V-JEPA models.
 
 **GitHub Repository:**  
-[V-JEPA: Video Joint Embedding Predictive Architecture](#) _(replace this with the actual GitHub link if available)_
+[V-JEPA: Video Joint Embedding Predictive Architecture](#)(https://github.com/monkeygobah/surgical_classification)
 
 ---
 
@@ -30,7 +30,7 @@ Achieved an accuracy of **83%** with LSTM and **93%** with V-JEPA models.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/vjepa_model.png" title="Vjepa model" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Vjepa.png.png" title="Vjepa model" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
