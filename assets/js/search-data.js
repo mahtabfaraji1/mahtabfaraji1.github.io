@@ -388,8 +388,8 @@ ninja.data = [{
           section: "News",},{id: "news-attended-cmimi-2024-to-present-analysis-of-out-of-distribution-factors-to-detect-iris-and-pupil-using-cataract-surgical-images",
           title: 'Attended CMIMI 2024 to present “Analysis of Out-of-Distribution Factors to Detect Iris and...',
           description: "",
-          section: "News",},{id: "projects-iris-and-pupil-detection-in-cataract-surgical-data",
-          title: 'Iris and Pupil Detection in Cataract Surgical Data',
+          section: "News",},{id: "projects-object-detection-in-cataract-surgical-images",
+          title: 'Object Detection in Cataract Surgical Images',
           description: "Object detection in cataract surgery images using YOLOv5 to monitor intraoperative deviations.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
