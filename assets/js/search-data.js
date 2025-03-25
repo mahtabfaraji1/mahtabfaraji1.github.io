@@ -403,9 +403,9 @@ ninja.data = [{
           description: "Designed a system using image processing and CNNs to convert handwritten equations into LaTeX code.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-mid-diastole-frame-detection-using-echocardiography-images",
+          title: 'Mid-diastole Frame Detection using Echocardiography Images',
+          description: "Applied image processing and ML algorithms to detect mid-diastole frames in echocardiography for mitral valve stenosis diagnosis.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
