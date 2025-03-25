@@ -35,7 +35,7 @@ Achieved an accuracy of **83%** with LSTM and **93%** with V-JEPA models.
 </div>
 
 <div class="caption">
- V-JEPA model architecture.
+ A) V-JEPA and attention probe architecture. The open source encoder and predictor weights from Meta (Vit-L) were used, and an attention probe was fine tuned for surgical video skill level classification. B) LSTM network architecture used. The whole video was used as input with frameskip of 4, features were extracted from each frame using a ResNet-18 pretrained on ImageNet, 2 LSTM layers with a hidden size of 256 were then trained along with 2 fully connected layers to produce the final classification result.
 </div>
 
 ---
