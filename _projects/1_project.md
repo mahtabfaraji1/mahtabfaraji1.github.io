@@ -22,7 +22,7 @@ YOLO Object Detection (You Only Look Once)
 Achieved a Mean Average Precision (mAP) range of **0.75–0.80** across multiple datasets.
 
 **GitHub Repository:**  
-[YOLO Object Detection](#) _(replace this with the actual link)_
+[YOLO Object Detection](https://github.com/mahtabfaraji1/yolov5)
 
 ---
 
@@ -30,22 +30,18 @@ Achieved a Mean Average Precision (mAP) range of **0.75–0.80** across multiple
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="Detected iris/pupil" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/sample_image_ctaract101.png.png" title="Sample images from Catarct 101 dataset" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="Pre-op image example" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/GT_sample_public_catarct.png" title="Ground-truth bounding boxes" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="YOLO detection output" class="img-fluid rounded z-depth-1" %}
+ <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/YOLOv5_result.png" title="YOLO model output" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="caption">
-    Left: Detected iris/pupil. Middle: Pre-op image example. Right: YOLO model output during surgery.
+    Left: Sample images from Catarct 101 dataset. Middle: Ground-truth bounding boxes. Right: YOLO model output.
 </div>
 
 ---
-
-You can expand this section with more results, metrics, and visualizations if you want to show before/after comparisons or overlayed bounding boxes.
-
-Let me know if you want help linking the GitHub repo or uploading images!
