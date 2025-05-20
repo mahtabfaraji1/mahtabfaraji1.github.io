@@ -22,7 +22,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-<p>I am a PhD student in Biomedical Engineering with a passion for computer vision, machine learning, and data science.</p>
+<p>I am a Graduate Researcher at University of Illinois Chicago with a passion for computer vision, machine learning, and data science.</p>
 
 <p>I have hands-on experience with deep learning and computer vision research, coupled with strong foundations in programming and analytical tools.</p>
 
